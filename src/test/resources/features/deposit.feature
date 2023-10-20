@@ -9,3 +9,5 @@ Feature: deposit
     Scenario: Deposit
         When I deposit 100000 to ATM
         Then my account balance is 100200
+
+        #Jedsadakorn Boonlerd 6410450770
